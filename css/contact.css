@@ -1,0 +1,48 @@
+form {
+  width: 50%;
+  box-sizing: border-box;
+  padding: 5%;
+  border: 1px solid black;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+
+.contact-form {
+  display: flex;
+  margin-bottom: 20px;
+}
+
+.contact-form img {
+  width: 50%;
+  height: 30%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+form h2 {
+  font-size: 2rem;
+}
+
+.sub-lead {
+  font-size: 1.3rem;
+}
+
+.input-box {
+  width: 100%;
+  height: 40px;
+  border-radius: 5px;
+  padding: 5px;
+  border: 1px solid black;
+  font-size: 20px;
+  margin-top: 5px;
+  margin-bottom: 25px;
+}
+
+.form-btn {
+  display: block;
+  width: 35%;
+  height: 8%;
+  background: white;
+  border: 2px solid black;
+  border-radius: 10px;
+  margin-top: 15px;
+}
